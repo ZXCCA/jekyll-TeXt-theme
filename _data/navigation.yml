@@ -50,3 +50,9 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+posts:
+  - title: Posts
+    children:
+    - title: 第一篇貼文！
+      url: /2025/07/07/First-Post.html

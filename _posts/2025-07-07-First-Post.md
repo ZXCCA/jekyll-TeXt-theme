@@ -5,7 +5,7 @@ layout: article
 aside:
     toc: true
 sidebar:
-    nav: layout
+    nav: posts
 author: YH LI
 ---
 
