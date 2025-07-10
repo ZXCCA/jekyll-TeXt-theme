@@ -1,11 +1,11 @@
 ---
-title: 滿文造字之餘台羅/台文之存在
+title: 滿文造字之於台羅/台文之存在
 tags: 隨筆
 layout: article
 aside:
     toc: true
 sidebar:
-    nav: posts
+    nav: essay
 author: YH LI
 ---
 
