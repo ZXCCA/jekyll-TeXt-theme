@@ -52,7 +52,9 @@ header:
     url: /about.html
 
 posts:
-  - title: Posts
+  - title: 隨筆
     children:
     - title: 第一篇貼文！
       url: /2025/07/07/First-Post.html
+    - title: 滿文造字之餘台羅/台文之存在
+      url: /2025/07/11/Manchu-opinion.html
