@@ -58,3 +58,9 @@ essay:
       url: /2025/07/07/First-Post.html
     - title: 滿文造字之於台羅/台文之存在
       url: /2025/07/11/Manchu-opinion.html
+
+movies:
+  - title: 電影
+    children:
+    - title: 《海街日記》 料理與角色之間的連結
+      url: /2025/07/11/Our-Little-Sister.html
